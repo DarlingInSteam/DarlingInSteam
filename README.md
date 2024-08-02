@@ -3,3 +3,5 @@
 A student of NSTU. I am studying in the specialty network information technology. Baceknd is a Java developer. Below are some statistics on my activity.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DarlingInSteam)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarlingInSteam)](https://git.io/streak-stats)

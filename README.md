@@ -4,4 +4,4 @@ A student of NSTU. I am studying in the specialty network information technology
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DarlingInSteam)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DarlingInSteam&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DarlingInSteam&theme=dark&hide_border=true" alt="GitHub Streak" /></a>

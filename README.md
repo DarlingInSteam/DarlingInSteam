@@ -4,7 +4,7 @@ A student of NSTU. I am studying in the specialty network information technology
 
 <a href="https://github.com/DarlingInSteam/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <h1 align="center"> <a href="https://github.com/DarlingInSteam/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=DarlingInSteam&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=DarlingInSteam&column=8&theme=gruvbox&no-frame=true"/>
 </a> </h1>
 
 <h1 align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DarlingInSteam&theme=dark&hide_border=true" alt="GitHub Streak" /></a> </h1>

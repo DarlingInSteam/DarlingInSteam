@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Artem.)](https://git.io/typing-svg)
 
-A student of NSTU. I am studying in the specialty network information technology. Baceknd is a Java developer. Below are some statistics on my activity.
+A student of NSTU. I am studying in the specialty network information technology. Backend developer in Java. Below are some statistics on my activity.
 
 <a href="https://github.com/DarlingInSteam/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <h1 align="center"> <a href="https://github.com/DarlingInSteam/github-profile-trophy">

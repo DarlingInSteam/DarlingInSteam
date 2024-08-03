@@ -1,4 +1,4 @@
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+,+i'm+Artem)](https://git.io/typing-svg) </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello!+I'm+Artem.)](https://git.io/typing-svg)
 
 A student of NSTU. I am studying in the specialty network information technology. Baceknd is a Java developer. Below are some statistics on my activity.
 

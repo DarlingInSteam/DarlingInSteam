@@ -28,3 +28,5 @@ A student of NSTU. I am studying in the specialty network information technology
 </div>
 
 <br/>
+
+![](https://komarev.com/ghpvc/?username=DarlingInSteam)
